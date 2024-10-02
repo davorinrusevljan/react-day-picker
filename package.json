@@ -180,8 +180,8 @@
     "mockdate": "^3.0.5",
     "prettier": "^3.3.3",
     "prettier-plugin-jsdoc": "^1.3.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "rc",
+    "react-dom": "rc",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "tslib": "^2.7.0",
@@ -194,7 +194,7 @@
   },
 
   "peerDependencies": {
-    "react": ">=16.8.0"
+    "react": "rc"
   },
   "funding": {
     "type": "individual",
